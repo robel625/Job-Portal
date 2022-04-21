@@ -59,11 +59,11 @@ Technology stack
 ## Getting Started
 
 The product is built using a two-tier pattern where the React frontend is decoupled logically and physically from the API backend. To use the product, a short action list must be completed successfully:
-•	Compile and start the Django API Backend
+-	Compile and start the Django API Backend
       -	by default the server starts on port 8000
-•	Compile and start the React UI
+-	Compile and start the React UI
       -	UI will start on port 3000 and expects a running backend on port 8000
-•	Configuration (Optional)
+-	Configuration (Optional)
       -	Change the API port
       -	Configure the API port used by the React UI to communicate with the backend
 
