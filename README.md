@@ -22,32 +22,32 @@ Candidates List: In this section, the employer can view the list of applied cand
 Reports: In this section employers can view how many candidates apply for a job in particular periods.
 Employers can also update his profile, change the password, and recover the password.
 
-Candidates(Jobseeker) Modules
-Home: In this section, candidates can view job which is posted by an employer and apply for those jobs.
-Applied Jobs: In this section, candidates can view the response of applied jobs.
+# Candidates(Jobseeker) Modules
+[**Home**]: In this section, candidates can view job which is posted by an employer and apply for those jobs.
+[#Applied Jobs #]: In this section, candidates can view the response of applied jobs.
 About Us: In this section, candidates can view the about us page of the website.
 Contact Us: In this section, candidates can view the contact us page of the website.
 Candidates(Jobseeker) can also update his profile, change the password, and recover the password.
 
-Front End
+# Front End
 * React components handling routing
 * Material UI for consistent styling
 * API calls to manipulate database
 
-Back End
+# Back End
 * GET, POST, PUT, Delete requests handled
 * CRUD manipulation 
 
-Relational Database
+# Relational Database
 * Handled with ORM 
 * Model system with base model handling identification
 * Many to many relationship for users and rewards
 
-Server / Deployment
+# Server / Deployment
 * Nginx 
 * Ubuntu machine
 
-Technology stack
+## Technology stack
 * HTML
 * CSS
 * JavaScript
@@ -68,10 +68,10 @@ The product is built using a two-tier pattern where the React frontend is decoup
       -	Configure the API port used by the React UI to communicate with the backend
 
 
-## About us
+## Authors
 **Robel**: [GitHub](https://github.com/robel625)
 
-[**Yonatan Nigusu**]
+**Yonatan Nigusu**
 
 ## Challenges
 - learning new frameworks/technologies: Django, HTML, CSS, JavaScript, React.js
