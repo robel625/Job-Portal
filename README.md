@@ -48,13 +48,13 @@ Server / Deployment
 * Ubuntu machine
 
 Technology stack
-•	HTML
-•	CSS
-•	JavaScript
-•	Python – Django
-•	SQLite 3
-•	Node.js
-•	React.js
+* HTML
+* CSS
+* JavaScript
+* Python – Django
+* SQLite 3
+* Node.js
+* React.js
 
 ## Getting Started
 
