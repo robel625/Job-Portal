@@ -38,6 +38,7 @@ This module provides functionalities related to employers. Employers can post va
 ## Back End
 * GET, POST, PUT, Delete requests handled
 * CRUD manipulation 
+* Authentication: JWT Login/Register/Logout
 
 ## Relational Database
 * Handled with ORM 
