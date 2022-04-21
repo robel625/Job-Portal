@@ -39,7 +39,7 @@ This module provides functionalities related to employers. Employers can post va
 * GET, POST, PUT, Delete requests handled
 * CRUD manipulation 
 
-# Relational Database
+## Relational Database
 * Handled with ORM 
 * Model system with base model handling identification
 * Many to many relationship for users and rewards
@@ -76,4 +76,4 @@ The product is built using a two-tier pattern where the React frontend is decoup
 
 ## Challenges
 - learning new frameworks/technologies: Django, HTML, CSS, JavaScript, React.js
-- serving static files in production 
+- serving Dynamic files in production 
