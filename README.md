@@ -14,11 +14,11 @@ The features of this Online Job Portal are user-friendly that users can easily w
 
 ### **Admin Modules**
 This module provides administrator related functionalities. The administrator manages the entire application and maintains the profiles of applicants and employers.
-### **Dashboard**Dashboard: In this section, admin can briefly view the total job category, total employer, total candidates, and total job.
+* Dashboard: In this section, admin can briefly view the total job category, total employer, total candidates, and total job.
 
 ### **Employer Module**
 This module provides functionalities related to employers. Employers can post vacancy details and update the details as and when necessary. Employers can search through applicant resumes based on different criteria.
-Jobs: In this section, an employer can post the job and manage the jobs.
+* Jobs: In this section, an employer can post the job and manage the jobs.
 Candidates List: In this section, the employer can view the list of applied candidates and send messages to selected candidates.
 Reports: In this section employers can view how many candidates apply for a job in particular periods.
 Employers can also update his profile, change the password, and recover the password.
